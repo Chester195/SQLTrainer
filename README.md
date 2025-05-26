@@ -35,19 +35,6 @@ PROYECTO/
 - Proyectos activos por año
 - Y muchos más...
 
-## 📷 Capturas
-
-![Interfaz](https://via.placeholder.com/600x300.png?text=Captura+de+pantalla+SQLTrainer)
-
-## 🔧 Cómo ejecutar
-
-1. Clona el repositorio:
-   git clone https://github.com/tuusuario/sqltrainer.git
-   cd sqltrainer
-Ejecuta el programa:
-
-
-python main2.py
 
 ## 💡 Asegúrate de tener Python instalado y Pillow configurado:
 pip install pillow
